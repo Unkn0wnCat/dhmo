@@ -1,0 +1,9 @@
+.Numbers > div {
+    display: flex;
+
+}
+
+.Numbers > div > * {
+    flex-grow: 1;
+    flex-wrap: wrap;
+}
